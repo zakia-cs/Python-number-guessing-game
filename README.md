@@ -1,7 +1,5 @@
 # Python-number-guessing-game
 A simple number guessing game built with python
-# Python-number-guessing-game
-A simple number guessing game built with Python
 
 ## Description
 The program generates a random number between 1 and 10, and the player tries to guess it. 
